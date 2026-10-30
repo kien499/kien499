@@ -1,13 +1,13 @@
 # ⚠️ Warning: Under Construction (and Under Pressure)
 
-> *"I write code, manipulate letterforms, and question my life choices—usually at 2:00 AM."*
+> *"I write code, manipulate letterforms, and question my life choices-usually at 2:00 AM."*
 
 ---
 
 ### 🙋‍♂️ Who let this guy in?
 - **Name:** Đặng Trung **KIÊN** *(Yes, KIÊN is my given name. Đặng is the family name. Please don’t call me Mr. Trung, my brain will short-circuit).*
 - **Current status:** Surviving my 2nd year at **HUST** (Hanoi University of Science and Technology). 
-- **Life goal:** Become a game developer without crying into my keyboard. *(Current progress: 50% tears, 50% C++ pointer errors).*
+- **Life goal:** Become a game developer, a font engineer and a type designer, without crying into my keyboard. *(Current progress: 50% tears, 50% C++ pointer errors).*
 
 ---
 
@@ -16,7 +16,7 @@
 #### 💻 The Tech Side
 - **C / C++:** I write code, segfault happens, I stare at the screen, segfault gets fixed. Nobody knows why.
 - **SQL:** `SELECT * FROM sanity WHERE exists = TRUE;` — *0 rows returned.*
-- **Git / GitHub:** Very new here. If I accidentally force-push and delete main, no I didn't.
+- **Git/GitHub:** Very new here. If I accidentally force-push and delete main, no I didn't.
 
 #### 🔤 The Type & Font Engineering Rabbit Hole
 - **4 years of "font engineering":** Which basically means downloading OFL/Google Fonts and surgically grafting Vietnamese diacritics onto them until they behave.
