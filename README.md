@@ -14,7 +14,7 @@
 ### 🛠️ What I pretend to know
 
 #### 💻 The Tech Side
-- **C / C++:** I write code, segfault happens, I stare at the screen, segfault gets fixed. Nobody knows why.
+- **C/C++:** I write code, segfault happens, I stare at the screen, segfault gets fixed. Nobody knows why.
 - **SQL:** `SELECT * FROM sanity WHERE exists = TRUE;` — *0 rows returned.*
 - **Git/GitHub:** Very new here. If I accidentally force-push and delete main, no I didn't.
 
@@ -41,8 +41,8 @@
 
 ---
 
-### 📡 Stalk / Reach Me
-- **Messenger:** [Facebook](https://www.facebook.com/dangtrungkien2k7/) *(Half the legit messages end up in my Spam folder, blame Meta).*
+### 📡 Stalk/Reach Me
+- **Messenger:** [Facebook](https://www.facebook.com/dangtrungkien2k7/) *(Half the legit messages end up in my Spam folder, blame Meta, I don't know why anymore).*
 - **Doomscrolling Hub:** [Instagram](https://www.instagram.com/kientrung499/) | [Threads](https://www.threads.net/@kientrung499) *(Zero posts, pure lurker vibes).*
 - **LinkedIn:** **404 NOT FOUND.** Let me enjoy my youth before the corporate recruiters find me.
 - **Emails (for when you need to act serious):**
