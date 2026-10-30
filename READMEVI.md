@@ -29,7 +29,7 @@
 ---
 
 ### 📂 prồ-chếch của mị™
-- **[Upmark](https://github.com/kien499/Upmark):** chụ uiiiiiiii, bé cưng của tui nó, nhẹ nhàng với nó nhe chưa
+- **[Upmark](https://github.com/kien499/Upmark):** chụ uiiiiiiii, bé cưng của tui đó, nhẹ nhàng với nó nhe chưa
 - **còn font trong máy sao:** mãn hạn tù trong máy bao giờ thì chưa biết, chừng nào lên bài tui tiếp.
 ---
 
