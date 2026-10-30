@@ -15,7 +15,7 @@
 
 #### 💻 The Tech Side
 - **C/C++:** I write code, segfault happens, I stare at the screen, segfault gets fixed. Nobody knows why.
-- **SQL:** `SELECT * FROM sanity WHERE exists = TRUE;` — *0 rows returned.*
+- **SQL:** `SELECT * FROM sanity WHERE exists = TRUE;` - *0 rows returned.*
 - **Git/GitHub:** Very new here. If I accidentally force-push and delete main, no I didn't.
 
 #### 🔤 The Type & Font Engineering Rabbit Hole
@@ -30,7 +30,7 @@
 ---
 
 ### 📂 Real Projects™
-- **[Upmark](https://github.com/kien499/Upmark):** My firstborn repository. Please be gentle with it.
+- **[Upmark](https://github.com/kien499/Upmark):** My firstborn repository. Please be gentle with this baby of mine.
 - **My private fonts:** Currently locked inside my MacBook's SSD like state secrets because my imposter syndrome won't let them breathe public air yet.
 
 ---
