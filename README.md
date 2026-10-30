@@ -45,6 +45,6 @@
 - **Messenger:** [Facebook](https://www.facebook.com/dangtrungkien2k7/) *(Half the legit messages end up in my Spam folder, blame Meta, I don't know why anymore).*
 - **Doomscrolling Hub:** [Instagram](https://www.instagram.com/kientrung499/) | [Threads](https://www.threads.net/@kientrung499) *(Zero posts, pure lurker vibes).*
 - **LinkedIn:** **404 NOT FOUND.** Let me enjoy my youth before the corporate recruiters find me.
-- **Emails (for when you need to act serious):**
+- **Emails (for when you need me to act serious and professional):**
   - Personal: `dkien499@gmail.com`
   - Academic: `Kien.DT2520945@sis.hust.edu.vn`
