@@ -6,7 +6,7 @@
 
 ### 🙋‍♂️ Who let this guy in?
 - **Name:** Đặng Trung **KIÊN** *(Yes, KIÊN is my given name. Đặng is the family name. Please don’t call me Mr. Trung, my brain will short-circuit).*
-- **Current status:** Surviving my 2nd year at **HUST** (Hanoi University of Science and Technology). 
+- **Current status:** Surviving my 2nd year of Multimedia Engineering at **HUST** (Hanoi University of Science and Technology). 
 - **Life goal:** Become a game developer, a font engineer and a type designer, without crying into my keyboard. *(Current progress: 50% tears, 50% C++ pointer errors).*
 
 ---
