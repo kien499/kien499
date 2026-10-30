@@ -1,50 +1,50 @@
-# _just read this for fun, okay..._
+# ⚠️ Warning: Under Construction (and Under Pressure)
 
-## let's-uh...introduce myself I think
-- hi, I'm Đặng Trung KIÊN, _tried not to confuse ya there but KIÊN is my first name, and that first word right there? That's my last name :)_
-- i'm currently an undergraduate at Hanoi University of Science and Technology (HUST for short)
-- although I'm new to GitHub, I currently have 4 years of experience with font engineering?? but all i did is just adding vietnamese accents for them fonts i found on google fonts or some ofl one, there are surely lots to learn about this branch of Graphic Design and that's what interest me to learn more about this myself.
+> *"I write code, manipulate letterforms, and question my life choices—usually at 2:00 AM."*
 
-## Skills and tools???
-- i'm currently studying my second year at the campus, so I guess...
-### For tech
-- i'm studying lots of C/C++ and just started to learn SQL as well, I have lots to learn more here
-### For types
-- this is where I brag about myself right??
-- i don't know what programming language they use in all of the OpenType features but I know to use it, I know how to code it myself, I know how _some_ of them works, although there sure is a lot more to it, some of them `sub`, some of them `liga`, some of them `calt` that I can NoT fUlLy UndERstAND them all. _i do know about Anchors as well, but i haven't taken full advantage of that yet :))_
-- for tools, I'm using FontLab 8 and Glyphs 4, normally FontLab for almost all tasks and Glyphs for specifically pixelated fonts, but since I can export as .glyphs file, that's fine by me.
+---
 
-## U HAVE PROJECT YET?
-- _...i don't_, well..., one, it's the Upmark repository there, that's my first project, yep, that's it.
+### 🙋‍♂️ Who let this guy in?
+- **Name:** Đặng Trung **KIÊN** *(Yes, KIÊN is my given name. Đặng is the family name. Please don’t call me Mr. Trung, my brain will short-circuit).*
+- **Current status:** Surviving my 2nd year at **HUST** (Hanoi University of Science and Technology). 
+- **Life goal:** Become a game developer without crying into my keyboard. *(Current progress: 50% tears, 50% C++ pointer errors).*
 
-## can i talk to u for fun?
-- yeah sure, facebook, instagram, threads,...you name it. _i don't use tiktok though for some reasons, i just don't like it._
-- here is some of them:
-  - facebook of u wanna text me through messenger: https://www.facebook.com/dangtrungkien2k7/ 
-   _some of them messages randomly moved to the scam folder for some reasons, i don't know what's happening with it now_
-  - instagram: https://www.instagram.com/kientrung499/
-   _post nothing there, it's just for doomscrolling and threads :)_
-  - threads: https://www.threads.com/@kientrung499
-  - NOPE I DON'T HAVE A LINKIN ACCOUNT
- 
-## u have something to talk about urself???
-- i do, mostly game, playing indie a lot, deltarune mostly, love teh soundtrack and game, so that's why i wanna be a game dev, i just think i can do it.
-- although having like 4 years of fontlab and glyphs, i didn't really make anything, any fonts or mine? nah, well maybe some pixel fonts, but to it properly with BEZIER CURVES and stuff??? nah...i'm studying it myself, i did study properly, made like one of mine, not publishing, gatekeeping it in the laptop. 
-- THERE IS A LOT OF LEARN, IT'S LONG AS HELL - I KNOW, AND I'M INTERESTED! _although some of them is hard, studying to be a game dev??, i sometime broke down but i'm fine eventually_
- 
-## oh yeah my email to make mine more professional i guess
-dkien499@gmail.com (mah personal) and Kien.DT2520945@sis.hust.edu.vn (my school mail)
-<!--
-**kien499/kien499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ What I pretend to know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 The Tech Side
+- **C / C++:** I write code, segfault happens, I stare at the screen, segfault gets fixed. Nobody knows why.
+- **SQL:** `SELECT * FROM sanity WHERE exists = TRUE;` — *0 rows returned.*
+- **Git / GitHub:** Very new here. If I accidentally force-push and delete main, no I didn't.
+
+#### 🔤 The Type & Font Engineering Rabbit Hole
+- **4 years of "font engineering":** Which basically means downloading OFL/Google Fonts and surgically grafting Vietnamese diacritics onto them until they behave.
+- **OpenType wizardry:** I write `sub`, `liga`, and `calt` rules like ancient incantations. Do I understand the dark compiler magic beneath? Absolutely not. Does it render? Most of the time.
+- **Anchors:** I know they exist. Do I use them properly? We don't talk about that.
+- **Weapons of choice:** 
+  - **FontLab 8:** My daily driver for 95% of tasks.
+  - **Glyphs 4:** For pixel perfection (and export gymnastics).
+  - **Bézier curves:** My mortal enemy, currently locked in an ongoing psychological warfare with my pen tool.
+
+---
+
+### 📂 Real Projects™
+- **[Upmark](https://github.com/kien499/Upmark):** My firstborn repository. Please be gentle with it.
+- **My private fonts:** Currently locked inside my MacBook's SSD like state secrets because my imposter syndrome won't let them breathe public air yet.
+
+---
+
+### 🎮 The Soul Fuel
+- **Indie games:** Heavily obsessed with *Deltarune* and anything with a banger soundtrack. If a game has tragic lore and pixel graphics, I will make it my whole personality for 3 months.
+- **Endgame:** Combining type design, sound, and C++ into an actual playable game instead of 40 unfinished prototypes.
+
+---
+
+### 📡 Stalk / Reach Me
+- **Messenger:** [Facebook](https://www.facebook.com/dangtrungkien2k7/) *(Half the legit messages end up in my Spam folder, blame Meta).*
+- **Doomscrolling Hub:** [Instagram](https://www.instagram.com/kientrung499/) | [Threads](https://www.threads.net/@kientrung499) *(Zero posts, pure lurker vibes).*
+- **LinkedIn:** **404 NOT FOUND.** Let me enjoy my youth before the corporate recruiters find me.
+- **Emails (for when you need to act serious):**
+  - Personal: `dkien499@gmail.com`
+  - Academic: `Kien.DT2520945@sis.hust.edu.vn`
